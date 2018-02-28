@@ -1,0 +1,4 @@
+# making files executable
+1. #!/bin/bash
+2. chmod +x [scriptname]
+3. ./[scriptname]
